@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/kwonmoon/meet-landing-page)
-- Live Site URL: [Netlify](https://???.netlify.app/)
+- Live Site URL: [Netlify](https://gleaming-gelato-bf3e1a.netlify.app/)
 
 ## My process
 
